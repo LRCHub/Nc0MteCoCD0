@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MONSTRUO",
+  "base_artist": "Tainy & Feid",
+  "createdAt": "2026-02-20T17:24:27.475475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Monstruo Comeastronautas - MTV Unplugged",
+      "artist": "PXNDX",
+      "has_synced": true,
+      "path": "select/01_Monstruo_Comeastronautas_-_MTV_Unplugged_PXNDX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Monstruo Comeastronautas (Mtv Unplugged)",
+      "artist": "Panda",
+      "has_synced": true,
+      "path": "select/02_Monstruo_Comeastronautas_(Mtv_Unplugged)_Panda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Monstruo Verde",
+      "artist": "Ultrasonicas",
+      "has_synced": true,
+      "path": "select/03_Monstruo_Verde_Ultrasonicas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hemos Creado un Monstruo (El Chojin & Nach)",
+      "artist": "El Chojin",
+      "has_synced": true,
+      "path": "select/04_Hemos_Creado_un_Monstruo_(El_Chojin_&_Nach)_El_Chojin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hemos creado un monstruo",
+      "artist": "El Chojin feat. Nach",
+      "has_synced": true,
+      "path": "select/05_Hemos_creado_un_monstruo_El_Chojin_feat._Nach.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Muere monstruo, muere",
+      "artist": "Almafuerte",
+      "has_synced": true,
+      "path": "select/06_Muere_monstruo,_muere_Almafuerte.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "El Monstruo Del Escusado",
+      "artist": "Los Estramboticos",
+      "has_synced": false,
+      "path": "select/07_El_Monstruo_Del_Escusado_Los_Estramboticos.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "El Monstruo Que Llevas Dentro",
+      "artist": "Grupo Exterminador",
+      "has_synced": false,
+      "path": "select/08_El_Monstruo_Que_Llevas_Dentro_Grupo_Exterminador.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Monstruo",
+      "artist": "Fobia",
+      "has_synced": true,
+      "path": "select/09_Monstruo_Fobia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Monstruo",
+      "artist": "The Vincent Black Shadow",
+      "has_synced": true,
+      "path": "select/10_El_Monstruo_The_Vincent_Black_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monstruo",
+      "artist": "VVV [Trippin'you]",
+      "has_synced": true,
+      "path": "select/11_Monstruo_VVV_[Trippin'you].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monstruo",
+      "artist": "VVV [Trippin\\'you]",
+      "has_synced": true,
+      "path": "select/12_Monstruo_VVV_[Trippin_'you].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Monstruo",
+      "artist": "Anuel AA",
+      "has_synced": true,
+      "path": "select/13_Monstruo_Anuel_AA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Monstruo",
+      "artist": "Justin Quiles",
+      "has_synced": true,
+      "path": "select/14_Monstruo_Justin_Quiles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yo No Soy Un Monstruo",
+      "artist": "Elvis Crespo, Ilegales",
+      "has_synced": false,
+      "path": "select/15_Yo_No_Soy_Un_Monstruo_Elvis_Crespo,_Ilegales.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Yo no soy un monstruo",
+      "artist": "Elvis Crespo",
+      "has_synced": true,
+      "path": "select/16_Yo_no_soy_un_monstruo_Elvis_Crespo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "El monstruo final",
+      "artist": "Sidecars",
+      "has_synced": true,
+      "path": "select/17_El_monstruo_final_Sidecars.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mi monstruo y yo",
+      "artist": "Veintiuno",
+      "has_synced": true,
+      "path": "select/18_Mi_monstruo_y_yo_Veintiuno.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONSTRUO",
+      "artist": "Tainy & Feid",
+      "has_synced": false,
+      "path": "select/pl_01_MONSTRUO_Tainy_&_Feid.txt"
+    }
+  ]
+}
